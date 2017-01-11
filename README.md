@@ -1,3 +1,5 @@
 # the-prize-research
 
- http://www.city.minamisoma.lg.jp/index.cfm/8,26123,c,html/26123/20151228-111539.pdf
+1. "There was a complication....Let's go ahead, he said." <span id="dHUZQvLn"></span>
+
+  <sup>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 32. Print.</sup>
