@@ -83,3 +83,4 @@ layout: default
 1. <a id="1tsJhQyS"></a>"The cost of labor reforms was growing increasingly extravagant....$100 million in matching gifts." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 156-157. Print.</small>
 1. <a id="I75urJNb"></a>"Asked afterward if his union was....'Let's pray there's another Zuckerberg.'" <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 164. Print.</small>
 1. <a id="oeLoV7zZ"></a>"'I've heard the fear that philanthropy in Newark....a hundred million dollars?" <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 159. Print.</small>
+1. <a id="Y8rMlpqA"></a>"'I did not come here to phase the district out.'" <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 119. Print.</small>
