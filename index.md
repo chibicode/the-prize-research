@@ -96,3 +96,4 @@ layout: default
 1. <a id="PbCfUKeq"></a>"In decrying the failure of the Newark schools....NPS assigned multiple lerks to individual managers." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 135-136. Print.</small>
 1. <a id="MI2FSCyI"></a>"All Newark schools, charter and district, served a low-income population, but some considerably more than others....to and from school and on public transit." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 138. Print.</small>
 1. <a id="T6JtuAkP"></a>"Parents were to enter up to eight top choices online....a better shot at their top choices" <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 201. Print.</small>
+1. <a id="h2CIT8Zc"></a> <small>前屋 毅 (2017)『ブラック化する学校』青春出版社:55-58</small>
