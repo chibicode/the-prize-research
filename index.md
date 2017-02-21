@@ -120,3 +120,4 @@ layout: default
 1. <a id="SKTp2CLh"></a>"Days before his formal campaign launch....She resigned." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 211. Print.</small>
 1. <a id="PYmtGeZf"></a> <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. Appendix I. Print.</small>
 1. <a id="rzsnJIbQ"></a>"'We need to be the sexiest city to teach in, not New Orleans and not D.C.,' Booker said." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 71. Print.</small>
+1. <a id="vFjfcLdq"></a>"While charter schools nationally had produced mixed results" <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 197. Print.</small>
