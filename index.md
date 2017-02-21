@@ -119,3 +119,4 @@ layout: default
 1. <a id="T1dqthSz"></a>"Two weeks later, the scandal known as Bridgegate broke....Christie had his own career to worry about." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 205. Print.</small>
 1. <a id="SKTp2CLh"></a>"Days before his formal campaign launch....She resigned." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 211. Print.</small>
 1. <a id="PYmtGeZf"></a> <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. Appendix I. Print.</small>
+1. <a id="rzsnJIbQ"></a>"'We need to be the sexiest city to teach in, not New Orleans and not D.C.,' Booker said." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 71. Print.</small>
