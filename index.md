@@ -4,6 +4,8 @@ layout: default
 
 # [「シリコンバレーのエンジニアが語る、誰にも悪気はなかった話」](http://chibicode.com/the-prize) — 脚注
 
+注意:「[The Prize](http://amzn.to/2idlf1u)」からの引用が多いです。The Prizeからの引用は、下で "◯◯◯ ◯◯◯ ◯◯◯...△△△ △△△ △△△" というように引用しているのですが、「◯◯◯」と「△△△」の部分だけを引用したということではなく、省略した「…」にあたる部分からも引用しております。「…」の部分をすべて書くと膨大な量になってしまうので諦めました。「…」の部分に何が書かれているか知りたい方は実際に本を購入して下さい。「◯◯◯」と「△△△」の部分は「ここが引用部分のはじまりとおわりです」という意味で書いております。
+
 1. <a id="dHUZQvLn"></a>"There was a complication....Let's go ahead, he said." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 32. Print.</small>
 1. <a id="UZwcT1mh"></a>"Zuckerberg was drawn to the cause...Who knows what that kid's going to do?" <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 25-27. Print.</small>
 1. <a id="4l8Y1hR9"></a>"Booker had emerged from the first generation....state senator Ronald Rice Sr. in a landslide." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 10-13. Print.</small>
