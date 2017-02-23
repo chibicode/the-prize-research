@@ -6,7 +6,7 @@ layout: default
 
 ### 注意
 
-「[The Prize](http://amzn.to/2idlf1u)」からの引用が多いです。The Prizeからの引用は、下で "◯◯◯...△△△"と引用しているのですが、「◯◯◯」と「△△△」の部分だけを引用したということではなく、省略した「…」にあたる部分からも引用しております。「…」の部分をすべて書くと膨大な量になってしまうので諦めました。「…」の部分に何が書かれているか知りたい方は実際に本を購入して下さい。「◯◯◯」と「△△△」の部分は「ここが引用部分のはじまりとおわりです」という意味で書いております。
+すべて「[The Prize](http://amzn.to/2idlf1u)」からのです。The Prizeからの引用は、下で "◯◯◯...△△△"と引用しているのですが、「◯◯◯」と「△△△」の部分だけを引用したということではなく、省略した「…」にあたる部分からも引用しております。「…」の部分をすべて書くと膨大な量になってしまうので諦めました。「…」の部分に何が書かれているか知りたい方は実際に本を購入して下さい。「◯◯◯」と「△△△」の部分は「ここが引用部分のはじまりとおわりです」という意味で書いております。
 
 1. <a id="dHUZQvLn"></a>"There was a complication....Let's go ahead, he said." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 32. Print.</small>
 1. <a id="UZwcT1mh"></a>"Zuckerberg was drawn to the cause...Who knows what that kid's going to do?" <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 25-27. Print.</small>
@@ -100,7 +100,6 @@ layout: default
 1. <a id="PbCfUKeq"></a>"In decrying the failure of the Newark schools....NPS assigned multiple lerks to individual managers." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 135-136. Print.</small>
 1. <a id="MI2FSCyI"></a>"All Newark schools, charter and district, served a low-income population, but some considerably more than others....to and from school and on public transit." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 138. Print.</small>
 1. <a id="T6JtuAkP"></a>"Parents were to enter up to eight top choices online....a better shot at their top choices" <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 201. Print.</small>
-1. <a id="h2CIT8Zc"></a> <small>前屋 毅 (2017)『ブラック化する学校』青春出版社:55-58</small>
 1. <a id="FwM8JJB2"></a>"She would consolidate the district's twelve lowest-performing....extensive engagement of parents." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 175. Print.</small>
 1. <a id="J1kRbrX2"></a>"The heckling began almost as soon as she started to speak....yelled a union activist." <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 176-177. Print.</small>
 1. <a id="W2xLLxS3"></a>"So were parents, fearful that children....reach their reassigned schools" <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 178. Print.</small>
