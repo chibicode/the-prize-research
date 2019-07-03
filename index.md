@@ -6,9 +6,14 @@ layout: default
 
 ### 注意
 
-以下は、すべて「[The Prize](http://amzn.to/2idlf1u)」からの引用です。元記事で黄色のリンクをクリックすると、該当する部分が黄色でハイライトされているはずです。
+- 以下は、すべて「[The Prize](http://amzn.to/2idlf1u)」からの引用です。
+- 元記事で黄色のリンクをクリックすると、該当する部分が黄色でハイライトされているはずです。
+- 下で "◯◯◯...△△△"と引用しているのですが、「◯◯◯」と「△△△」の部分だけを引用したということではなく、省略した「…」にあたる部分からも引用しております。
+- 「◯◯◯」と「△△△」の部分は「ここが引用部分のはじまりとおわりです」という意味で書いております。
+- 「…」の部分をすべて書くと原文から多くの文章を載せることになり、引用の範疇外になると判断したので省略しています。
+- 引用部分は原文の意味をできるだけ残したまま要約しています。(論文で他の論文を引用する際に使う手法を参考にしています)
 
-また、下で "◯◯◯...△△△"と引用しているのですが、「◯◯◯」と「△△△」の部分だけを引用したということではなく、省略した「…」にあたる部分からも引用しております。「◯◯◯」と「△△△」の部分は「ここが引用部分のはじまりとおわりです」という意味で書いております。「…」の部分をすべて書くと膨大な量になってしまうので省略しています。
+### 脚注
 
 - <a id="UZwcT1mh"></a>"Zuckerberg was drawn to the cause...Who knows what that kid's going to do?" <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 25-27. Print.</small>
 - <a id="eZQPzY9q"></a>"Booker and Zuckerberg met at a buffet dinner one night on the deck of....'This is a person who can create change.'" <small>Russakoff, Dale. The Prize: Who's in Charge of America's Schools? Boston: Houghton Mifflin Harcourt, 2016. 24-25. Print.</small>
